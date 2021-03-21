@@ -23,7 +23,7 @@ Community editions Cinnamon, Budgie, Deepin, i3, Mate, LXQT, LXDE, etc:
 
 Update pacman mirrors and update system after installation
 
-> sudo pacman-mirrors -f5 && sudo pacman -Syyu
+`sudo pacman-mirrors -f5 && sudo pacman -Syyu`
 
 Don't perform partial upgrades, use -yu or do upagrdes before installing new packages
 
@@ -32,7 +32,7 @@ Don't perform partial upgrades, use -yu or do upagrdes before installing new pac
 
 Install development tools (similar to build-essential Debian/Ubuntu)
 
-> sudo pacman -Syyu --needed git base-devel
+`sudo pacman -Syyu --needed git base-devel`
 
 
 ## Build and install $package
@@ -75,11 +75,11 @@ makepkg need to run in same folder of PKGBUILD file (by default)
 
 Install buildpkg
 
-> sudo pacman Syu manjaro-tools-pkg
+`sudo pacman Syu manjaro-tools-pkg`
 
 buildpkg is run outside the folder where the PKGBUILD file is stored
 
-> buildpkg -cp $package
+`buildpkg -cp $package`
 
 * -r  for using custom working directory (instead of /tmp)
 
