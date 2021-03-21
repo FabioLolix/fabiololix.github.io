@@ -35,10 +35,7 @@ Install development tools (similar to build-essential Debian/Ubuntu)
 `sudo pacman -Syyu --needed git base-devel`
 
 
-## Build and install $package
-
-AUR web page
-* <https://aur.archlinux.org/>
+## Build and install one of my pkgbuild from Github
 
 My Github pkgbuilds repo 1:
 * <https://github.com/FabioLolix/PKGBUILD>
@@ -85,6 +82,10 @@ buildpkg is run outside the folder where the PKGBUILD file is stored
 
 
 ### Getting started with the AUR
+
+AUR web page
+* <https://aur.archlinux.org/>
+
 The Arch User Repository is not officially supported by Arch Linux or Manjaro etc.. 
 
 <https://wiki.archlinux.org/index.php/Arch_User_Repository>
