@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting started with Manjaro
+title: Distro diares
 ---
 
 Incoming
