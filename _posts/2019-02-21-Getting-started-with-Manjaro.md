@@ -37,14 +37,14 @@ Install development tools (similar to build-essential Debian/Ubuntu)
 
 ## Build and install $package
 
-AUR pkgbuilds:
-* <https://aur.archlinux.org/packages/?O=0&SeB=M&K=FabioLolix&outdated=&SB=n&SO=a&PP=50&do_Search=Go>
+AUR web page
+* <https://aur.archlinux.org/>
 
-Github pkgbuilds repo 1:
+My Github pkgbuilds repo 1:
 * <https://github.com/FabioLolix/PKGBUILD>
 
-Github pkgbuilds repo 2:
-* https://github.com/FabioLolix/PKGBUILD-AUR_fix
+My Github pkgbuilds repo 2:
+* <https://github.com/FabioLolix/PKGBUILD-AUR_fix>
 
 
 `git clone https://github.com/FabioLolix/PKGBUILD`
