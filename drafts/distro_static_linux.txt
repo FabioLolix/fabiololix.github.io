@@ -13,9 +13,10 @@ Kernel and the root filesystem are assembled in a single file to boot on systems
 
 Bilangual site in RU/EN, consist of the main page with description, download link (bootx64.efi) and another page with the list of
 
-downloadable packages 
+downloadable packages (157)
 
 Documentation and apk build scripts are reported to be in the user home
 
-Lack any kind of contact mean or social, VSC repository, packages recipes, source hosting, bugtracker, documentation, release date, etc
+Lack any kind of contact mean or social, VSC repository, packages recipes, source hosting, bugtracker, documentation, 
+versioned download, release date info or version, etc
 
