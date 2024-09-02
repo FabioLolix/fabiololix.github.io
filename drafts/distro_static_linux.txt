@@ -17,6 +17,6 @@ downloadable packages (157)
 
 Documentation and apk build scripts are reported to be in the user home
 
-Lack any kind of contact mean or social, VSC repository, packages recipes, source hosting, bugtracker, documentation, 
+Lack any kind of contact mean or social, developer identity, VSC repository, packages recipes, source hosting, bugtracker, documentation, 
 versioned download, release date info or version, etc
 
